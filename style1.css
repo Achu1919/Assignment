@@ -1,0 +1,19 @@
+body{
+    background-image: url('Images/69.jpg');
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(173, 66, 28);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+p{
+    font-size: 30px;
+    text-align: justify;
+    color: rgb(22, 19, 15);
+}
